@@ -1,0 +1,4 @@
+# Include this file, but nothing else in this folder.  This folder is where files get written.  (This saves some lines of code.)
+*
+*/
+!.gitignore
